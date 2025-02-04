@@ -1,2 +1,2 @@
-Contains jupyter notebooks of Generative AI 
+Contains jupyter notebooks of Generative AI applications
  
